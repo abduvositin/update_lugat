@@ -6,6 +6,139 @@
       "title": "Telegram Gift tizimi yangilandi",
       "fullDescription": "Bugun tizimga yangi kuzatuv mexanizmi qo‘shildi. Endi foydalanuvchilar giftlar holatini aniqroq ko‘rishlari mumkin.",
       "addedTime": "2025-12-12 15:21"
+    },
+    {
+      "id": 2,
+      "image": "https://images.pexels.com/photos/3186551/pexels-photo-3186551.jpeg",
+      "title": "Premium foydalanuvchilarga qo‘shimcha imkoniyatlar",
+      "fullDescription": "Premium akkauntlar uchun tezkor tekshiruv funksiyasi yoqildi. Xabarnomalar endi 40% tezroq yuboriladi.",
+      "addedTime": "2025-12-12 11:10"
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/3184312/pexels-photo-3184312.jpeg",
+      "title": "Server optimizatsiyasi yakunlandi",
+      "fullDescription": "Backend tizimlariga qo‘shimcha optimizatsiya kiritildi. Yuklanish tezligi sezilarli darajada oshdi.",
+      "addedTime": "2025-12-11 20:32"
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
+      "title": "Yangi monitoring paneli ishga tushdi",
+      "fullDescription": "Adminlar uchun maxsus monitoring paneli yaratildi. Endi holatlar real vaqt rejimida kuzatiladi.",
+      "addedTime": "2025-12-11 14:05"
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/7134982/pexels-photo-7134982.jpeg",
+      "title": "Xavfsizlik tizimiga yangi modul qo‘shildi",
+      "fullDescription": "Muammolarni oldini olish uchun yangi xavfsizlik filtrlari joriy qilindi. Soxta signal ehtimoli 35% kamaydi.",
+      "addedTime": "2025-12-10 18:50"
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/6476584/pexels-photo-6476584.jpeg",
+      "title": "Foydalanuvchilar soni keskin oshmoqda",
+      "fullDescription": "O‘tgan hafta davomida tizimga 1500+ yangi foydalanuvchi qo‘shildi.",
+      "addedTime": "2025-12-10 10:41"
+    },
+    {
+      "id": 7,
+      "image": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg",
+      "title": "Ilova interfeysi yangilandi",
+      "fullDescription": "UI dizayniga bir nechta optimizatsiyalar qo‘shildi. Elementlar yanada ixcham va sezgir bo‘ldi.",
+      "addedTime": "2025-12-09 19:12"
+    },
+    {
+      "id": 8,
+      "image": "https://images.pexels.com/photos/3182751/pexels-photo-3182751.jpeg",
+      "title": "Bildirishnoma tizimi kuchaytirildi",
+      "fullDescription": "Push notification tizimiga kechikishlarni kamaytiruvchi algoritm joriy qilindi.",
+      "addedTime": "2025-12-09 09:35"
+    },
+    {
+      "id": 9,
+      "image": "https://images.pexels.com/photos/3183198/pexels-photo-3183198.jpeg",
+      "title": "Tizimga yangi filtr qo‘shildi",
+      "fullDescription": "Yangi aniqlash filtri sovg‘alarni noto‘g‘ri aniqlash ehtimolini kamaytirdi.",
+      "addedTime": "2025-12-08 17:40"
+    },
+    {
+      "id": 10,
+      "image": "https://images.pexels.com/photos/3184170/pexels-photo-3184170.jpeg",
+      "title": "Mobil versiya uchun yaxshilanishlar",
+      "fullDescription": "Android qurilmalar uchun qo‘shimcha optimizatsiya amalga oshirildi.",
+      "addedTime": "2025-12-08 08:22"
+    },
+    {
+      "id": 11,
+      "image": "https://images.pexels.com/photos/3872787/pexels-photo-3872787.jpeg",
+      "title": "Bazaga yangi sovg‘alar qo‘shildi",
+      "fullDescription": "Telegram gift bazasiga jami 12 ta yangi turdagi sovg‘alar qo‘shildi.",
+      "addedTime": "2025-12-07 17:20"
+    },
+    {
+      "id": 12,
+      "image": "https://images.pexels.com/photos/3861964/pexels-photo-3861964.jpeg",
+      "title": "Tizimdagi kichik nosozlik bartaraf etildi",
+      "fullDescription": "Ba’zi foydalanuvchilarda kuzatilgan avtomatik chiqish muammosi hal qilindi.",
+      "addedTime": "2025-12-07 11:45"
+    },
+    {
+      "id": 13,
+      "image": "https://images.pexels.com/photos/3184334/pexels-photo-3184334.jpeg",
+      "title": "Serverlar yangilandi",
+      "fullDescription": "Qo‘shimcha server instansiyalari ishga tushirildi. Barqarorlik oshdi.",
+      "addedTime": "2025-12-06 20:55"
+    },
+    {
+      "id": 14,
+      "image": "https://images.pexels.com/photos/3184613/pexels-photo-3184613.jpeg",
+      "title": "Kechikishlar kamaytirildi",
+      "fullDescription": "Kechikishga sabab bo‘lgan eski modullar optimallashtirildi va almashtirildi.",
+      "addedTime": "2025-12-06 09:32"
+    },
+    {
+      "id": 15,
+      "image": "https://images.pexels.com/photos/3184612/pexels-photo-3184612.jpeg",
+      "title": "So‘rovlarni qayta ishlash tezligi oshdi",
+      "fullDescription": "API serverlarining ishlash tezligi oshirildi va yuklama balanslangan.",
+      "addedTime": "2025-12-05 22:14"
+    },
+    {
+      "id": 16,
+      "image": "https://images.pexels.com/photos/3184464/pexels-photo-3184464.jpeg",
+      "title": "Ilovaga yangi bo‘lim qo‘shildi",
+      "fullDescription": "Statistika bo‘limi beta test sifatida ishga tushirildi.",
+      "addedTime": "2025-12-05 09:48"
+    },
+    {
+      "id": 17,
+      "image": "https://images.pexels.com/photos/3183186/pexels-photo-3183186.jpeg",
+      "title": "Yangiliklarni yuklash tizimi yaxshilandi",
+      "fullDescription": "Yangiliklar real vaqt rejimida yuklanadigan holga keltirildi.",
+      "addedTime": "2025-12-04 18:27"
+    },
+    {
+      "id": 18,
+      "image": "https://images.pexels.com/photos/3184370/pexels-photo-3184370.jpeg",
+      "title": "Yangi foydalanuvchilar uchun qo‘llanma yaratildi",
+      "fullDescription": "Tizimdan foydalanishni osonlashtiruvchi interaktiv ko‘rsatma qo‘shildi.",
+      "addedTime": "2025-12-04 08:10"
+    },
+    {
+      "id": 19,
+      "image": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg",
+      "title": "Bildirishnomalarga rasm qo‘shish imkoniyati yaratildi",
+      "fullDescription": "Endi push xabarnomalarga kichik rasm qo‘shilishi mumkin.",
+      "addedTime": "2025-12-03 22:51"
+    },
+    {
+      "id": 20,
+      "image": "https://images.pexels.com/photos/3184396/pexels-photo-3184396.jpeg",
+      "title": "Kodni tekshirish jarayoni tezlashtirildi",
+      "fullDescription": "Kodlarni tahlil qilish mexanizmi qayta yozildi va sezilarli darajada barqarorlashdi.",
+      "addedTime": "2025-12-03 14:05"
     }
   ]
 }
