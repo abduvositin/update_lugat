@@ -2,35 +2,35 @@
   "news": [
     {
       "id": 1,
-      "image": "https://cdn.example.com/news/gift_update.jpg",
+      "image": "https://images.pexels.com/photos/34505016/pexels-photo-34505016.jpeg",
       "title": "Telegram Gift tizimi yangilandi",
       "fullDescription": "Bugun tizimga yangi kuzatuv mexanizmi qo‘shildi. Endi foydalanuvchilar giftlar holatini aniqroq ko‘rishlari mumkin.",
       "addedTime": "2025-12-12 15:21"
     },
     {
       "id": 2,
-      "image": "https://cdn.example.com/news/premium_bonus.jpg",
+      "image": "https://cdn.pixabay.com/photo/2025/11/28/16/07/frost-9983255_1280.jpg",
       "title": "Premium foydalanuvchilarga qo‘shimcha bonus",
       "fullDescription": "Premium foydalanuvchilarga chegirmalar va ustuvor qidiruv qo‘shildi. Bu xizmatlarga tezroq javob olish imkonini beradi.",
       "addedTime": "2025-12-12 09:40"
     },
     {
       "id": 3,
-      "image": "https://cdn.example.com/news/system_fix.jpg",
+      "image": "https://cdn.pixabay.com/photo/2022/10/10/06/29/city-7510927_1280.jpg",
       "title": "Tizimdagi xatoliklar bartaraf etildi",
       "fullDescription": "So‘nggi 24 soat ichida kuzatilgan ba’zi texnik nosozliklar tuzatildi. Endi xizmatlar barqaror ishlamoqda.",
       "addedTime": "2025-12-11 20:18"
     },
     {
       "id": 4,
-      "image": "https://cdn.example.com/news/server_update.jpg",
+      "image": "https://images.pexels.com/photos/34422211/pexels-photo-34422211.jpeg",
       "title": "Server ishlashi tezlashtirildi",
       "fullDescription": "Yangi optimizatsiya orqali yuklanish tezligi 35% ga oshdi. Baholash bo‘yicha qo‘shimcha testlar davom ettirilmoqda.",
       "addedTime": "2025-12-11 16:02"
     },
     {
       "id": 5,
-      "image": "https://cdn.example.com/news/security_update.jpg",
+      "image": "https://images.pexels.com/photos/27700773/pexels-photo-27700773.jpeg",
       "title": "Xavfsizlik yangiligi",
       "fullDescription": "Hisoblarni himoya qilish darajasi oshirildi. Hozirgi vaqtda yangi xavfsizlik protokollari joriy qilindi.",
       "addedTime": "2025-12-11 11:55"
