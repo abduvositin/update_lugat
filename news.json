@@ -1,0 +1,74 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "image": "https://cdn.example.com/news/gift_update.jpg",
+      "title": "Telegram Gift tizimi yangilandi",
+      "fullDescription": "Bugun tizimga yangi kuzatuv mexanizmi qo‘shildi. Endi foydalanuvchilar giftlar holatini aniqroq ko‘rishlari mumkin.",
+      "addedTime": "2025-12-12 15:21"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.example.com/news/premium_bonus.jpg",
+      "title": "Premium foydalanuvchilarga qo‘shimcha bonus",
+      "fullDescription": "Premium foydalanuvchilarga chegirmalar va ustuvor qidiruv qo‘shildi. Bu xizmatlarga tezroq javob olish imkonini beradi.",
+      "addedTime": "2025-12-12 09:40"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.example.com/news/system_fix.jpg",
+      "title": "Tizimdagi xatoliklar bartaraf etildi",
+      "fullDescription": "So‘nggi 24 soat ichida kuzatilgan ba’zi texnik nosozliklar tuzatildi. Endi xizmatlar barqaror ishlamoqda.",
+      "addedTime": "2025-12-11 20:18"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.example.com/news/server_update.jpg",
+      "title": "Server ishlashi tezlashtirildi",
+      "fullDescription": "Yangi optimizatsiya orqali yuklanish tezligi 35% ga oshdi. Baholash bo‘yicha qo‘shimcha testlar davom ettirilmoqda.",
+      "addedTime": "2025-12-11 16:02"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.example.com/news/security_update.jpg",
+      "title": "Xavfsizlik yangiligi",
+      "fullDescription": "Hisoblarni himoya qilish darajasi oshirildi. Hozirgi vaqtda yangi xavfsizlik protokollari joriy qilindi.",
+      "addedTime": "2025-12-11 11:55"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.example.com/news/new_feature.jpg",
+      "title": "Yangi funksiya test rejimida ishga tushdi",
+      "fullDescription": "Signal tekshiruvi uchun yangi monitorlash algoritmi sinovdan o‘tmoqda. Foydalanuvchilarga bir necha kun ichida taqdim etiladi.",
+      "addedTime": "2025-12-10 22:30"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.example.com/news/user_growth.jpg",
+      "title": "Foydalanuvchilar soni oshmoqda",
+      "fullDescription": "Oxirgi haftada tizimga 1200+ yangi foydalanuvchi qo‘shildi. Yangi serverlar qo‘shimcha yukni bemalol ko‘tara oladi.",
+      "addedTime": "2025-12-10 18:14"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.example.com/news/design_update.jpg",
+      "title": "UI dizayni yangilandi",
+      "fullDescription": "Ilovaning asosiy interfeysi optimallashtirildi. Yangi ranglar, yumaloq burchaklar va yumshoq animatsiyalar qo‘shildi.",
+      "addedTime": "2025-12-09 13:05"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.example.com/news/fcm_update.jpg",
+      "title": "Bildirishnomalar yanada tezlashdi",
+      "fullDescription": "FCM mexanizmi takomillashtirilgan. Endi xabarnomalar o‘rtacha 0.2 soniya tez yuboriladi.",
+      "addedTime": "2025-12-09 09:50"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.example.com/news/gift_detect.jpg",
+      "title": "Gift aniqlash tezligi oshirildi",
+      "fullDescription": "Aniqlash moduliga yangi filtrlar qo‘shildi. Endi soxta signal ehtimoli 40% ga kamaygan.",
+      "addedTime": "2025-12-08 21:33"
+    }
+  ]
+}
